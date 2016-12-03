@@ -1,0 +1,45 @@
+html,body{
+    padding:0;margin:0;
+    width: 100%;
+    height: 100%;
+}
+.swiper-container{
+    width: 100%;
+    height: 100%;
+}
+.swiper-slide{
+    background: #F1F1F1;
+    position: relative;
+}
+.swiper-slide img{
+    width: 7.2rem;
+    height: 7.37rem;
+    position: absolute;
+    right:0rem;top:0rem;
+}
+.title{
+    font-size: 0.41rem;
+    color: #3D3C44;
+    text-align: center;
+    margin-top: 7.76rem;
+    font-weight: bold;
+}
+.content{
+    font-size: 0.35rem;
+    color: #ACACAC;
+    text-align: center;
+    margin-top: 0.32rem;
+    font-weight: bold;
+}
+input{
+    width: 1.89rem;
+    height: 0.61rem;
+    border:1px solid #E17D7D;
+    color: #D22327;
+    background: none;
+    border-radius: 0.1rem;
+    position: absolute;
+    left: 0;right: 0;
+    top: 9.91rem;
+    margin: auto;
+}
